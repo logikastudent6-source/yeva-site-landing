@@ -1,0 +1,87 @@
+body{
+  font-family: footlight mt light;;
+  margin: 10px;
+  font-size: 23px;
+  color: #766732;
+ background: #f0eeb9;
+background: linear-gradient(0deg,rgba(240, 238, 185, 1) 0%, rgba(240, 255, 254, 1) 100%);
+    
+}
+
+header {
+    text-align: center;
+    color: #6a74ad;
+
+}
+
+.GENSHIN {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://traveler.gg/wp-content/uploads/sites/103/2024/06/3cda4fd20bc5639d8f5f8d604a32176b1550564.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+   color: white;  
+   
+}
+
+.FYOLAIIII {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: #ddbb40;
+    border: 2px solid  #151723;
+    border-radius: 20px;
+    text-shadow: 0px 0px 11px rgba(251, 247, 233, 0.9);
+    box-shadow:  0px 0px 11px rgba(21, 23, 35, 0.9);
+    transition: all 0.3s ease;
+    
+}
+
+.FYOLAIIII:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow:  0px 12px 20px rgba(21, 23, 35, 0.9)
+}
+
+
+
+a {
+     text-decoration: none;
+    color: white;
+}
+
+
+
+h1 {
+  text-align: center;
+}
+
+p {
+   padding: 20px;
+    
+}
+
+
+h2 {
+    text-align: center;
+    
+}
+
+.infinity {
+    width: 200px;
+}
+
+.prostofuter {
+    padding: 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    background-color: #dedca0;
+    
+    
+}
